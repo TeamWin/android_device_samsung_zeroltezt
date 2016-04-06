@@ -1,0 +1,2 @@
+add_lunch_combo omni_zeroltezt-eng
+add_lunch_combo omni_zeroltezt-userdebug
